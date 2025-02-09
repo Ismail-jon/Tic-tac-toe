@@ -19,6 +19,7 @@ To run this project locally:
 
 2. **Install dependencies:**
  ```bash 
+cd Tic-tac-toe
 npm install
 ```
 
