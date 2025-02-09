@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
+A simple Tic-Tac-Toe game built using React.
 
 ## Features
 - Two-player gameplay: Player 'X' and Player 'O' take turns.
@@ -12,24 +12,24 @@ To run this project locally:
 1. **Clone the repository:**
 
 ```bash
-   git clone https://github.com/Ismail-jon/Tic-tac-toe.git
-   cd Tic-tac-toe
+  git clone https://github.com/Ismail-jon/Tic-tac-toe.git
+
 ```
 
 
 2. **Install dependencies:**
  ```bash 
-cd Tic-tac-toe
-npm install
+  cd Tic-tac-toe
+  npm install
 ```
 
 
 3. **Start the development server:**
  ```bash 
-npm run dev
+  npm run dev
  ```
 
- This will start the application, and you can access it by navigating to the provided localhost link in your browser.
+This will start the application, and you can access it by navigating to the provided localhost link in your browser.
 
 
 ## How to Play
