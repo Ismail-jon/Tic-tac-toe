@@ -7,6 +7,8 @@ A simple Tic-Tac-Toe game built using React.
 - If all nine squares are filled without a winner, the game ends in a draw.
 
 ## Getting Started
+To run [click](https://ismail-jon.github.io/Tic-tac-toe/)
+
 To run this project locally:
 
 1. **Clone the repository:**
@@ -30,6 +32,8 @@ To run this project locally:
  ```
 
 This will start the application, and you can access it by navigating to the provided localhost link in your browser.
+
+
 
 
 ## How to Play
